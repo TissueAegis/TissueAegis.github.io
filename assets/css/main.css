@@ -2171,7 +2171,7 @@
 		}
 
 	body.homepage #header {
-		height: 100vh;
+		height: 100%;
 		min-height: 40em;
 	}
 
